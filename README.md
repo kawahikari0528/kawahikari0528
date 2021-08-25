@@ -1,4 +1,4 @@
-# 안녕하세요 양성훈입니다
+# 안녕하세요
 
 
 [![kawahikari0528's github stats](https://github-readme-stats.vercel.app/api?username=kawahikari0528&show_icons=true&hide_border=true&count_private=true)](https://github.com/kawahikari0528)
